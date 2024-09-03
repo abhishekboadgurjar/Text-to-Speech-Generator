@@ -21,7 +21,6 @@ The **Text to Speech Generator** is a web-based application that allows users to
 - **CSS**: Styles the interface, ensuring a clean and responsive design.
 - **JavaScript**: Handles the speech synthesis logic and user interactions.
 
-
 ## Installation
 
 To get started with the project, follow these steps:
