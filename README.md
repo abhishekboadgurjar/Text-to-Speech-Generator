@@ -27,7 +27,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekgurjar-in/Text-to-Speech-Generator.git
+    git clone https://github.com/abhishekboadgurjar/Text-to-Speech-Generator.git
     ```
 
 2. **Open the project directory**:
@@ -48,7 +48,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Text to Speech Generator [here](https://abhishekgurjar-in.github.io/Text-to-Speech-Generator/).
+You can check out the live demo of the Text to Speech Generator [here](https://abhishekboadgurjar.github.io/Text-to-Speech-Generator/).
 ## Screenshots
 ![Screenshot 2024-08-21 201617](https://github.com/user-attachments/assets/9060ffd6-deb7-473f-b599-7d02258147fc)
 
@@ -64,5 +64,5 @@ This project was developed as part of my journey to enhance my web development s
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekgurjar-in)
+  - [GitHub Profile](https://github.com/abhishekboadgurjar)
 
